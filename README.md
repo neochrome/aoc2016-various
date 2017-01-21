@@ -2,6 +2,33 @@
 The goal is to solve each day's puzzle using a different language.
 Read more about the [puzzles](http://adventofcode.com/2016/).
 
+## Languages used
+1. AWK
+1. x86_64 Assembly
+1. Bash
+1. Python 3.5
+1. PHP
+1. JavaScript (Node js)
+1. Perl
+1. Ruby 2.4
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+
 ## Pre-requisites
 [Docker](https://www.docker.com) is used to facilitate the
 multitude of languages and their dependencies without having to
