@@ -11,7 +11,7 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 1. JavaScript (Node js)
 1. Perl
 1. Ruby 2.4
-1. 
+1. Lua
 1. 
 1. 
 1. 
