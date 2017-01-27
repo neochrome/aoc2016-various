@@ -12,7 +12,7 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 1. Perl
 1. Ruby 2.4
 1. Lua
-1. 
+1. SWI-Prolog
 1. 
 1. 
 1. 
