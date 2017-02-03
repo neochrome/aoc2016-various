@@ -1,7 +1,6 @@
 #include <assert.h>
 #include <stdint.h>
 #include <stdio.h>
-#include <string.h>
 
 #define true 1
 #define false 0
@@ -28,20 +27,6 @@ typedef union {
 	hash_t hash;
 } state_t;
 const floor_t Elevator = 0b1000000000000000;
-
-const char *bit_string(floor_t i) {
-	static char bits[17];
-	bits[16] = '\0';
-	for (floor_t b = 0u, z = 1u; b < 16u; b++, z <<= 1u) {
-		bits[15-b] = (i & z) == z ? '1' : '0';
-	}
-	return bits;
-}
-
-void dump(state_t s) {
-	for (int f = 0; f < 4; f++) printf("%d: %s\n", f, bit_string(s.floors[f]));
-	printf("----------\n");
-}
 
 floor_t rtg(parts_t p) { return p << 8u; }
 floor_t chip(parts_t p) { return p; }
