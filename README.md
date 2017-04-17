@@ -15,7 +15,7 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 1. SWI-Prolog
 1. C (gcc)
 1. Fortran (gfortran) 
-1. 
+1. R 3.3.3 
 1. 
 1. 
 1. 
