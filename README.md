@@ -4,30 +4,30 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 
 ## Languages used
 1. AWK
-1. x86_64 Assembly
-1. Bash
-1. Python 3.5
-1. PHP
-1. JavaScript (Node js)
-1. Perl
-1. Ruby 2.4
-1. Lua
-1. SWI-Prolog
-1. C (gcc)
-1. Fortran (gfortran) 
-1. R 3.3.3 
-1. Go 1.9
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+2. x86_64 Assembly
+3. Bash
+4. Python 3.5
+5. PHP
+6. JavaScript (Node js)
+7. Perl
+8. Ruby 2.4
+9. Lua
+10. SWI-Prolog
+11. C (gcc)
+12. Fortran (gfortran)
+13. R 3.3.3
+14. Go 1.9
+15. GNU Smalltalk
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
 
 ## Pre-requisites
 [Docker](https://www.docker.com) is used to facilitate the
