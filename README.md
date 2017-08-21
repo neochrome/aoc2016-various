@@ -18,7 +18,7 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 13. R 3.3.3
 14. Go 1.9
 15. GNU Smalltalk
-16. 
+16. Clojure 1.8.0
 17. 
 18. 
 19. 
