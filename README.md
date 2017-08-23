@@ -19,7 +19,7 @@ Read more about the [puzzles](http://adventofcode.com/2016/).
 14. Go 1.9
 15. GNU Smalltalk
 16. Clojure 1.8.0
-17. 
+17. Crystal 0.23.1
 18. 
 19. 
 20. 
